@@ -1,1 +1,1 @@
-手势拖拽box
+AI手势拖拽mediapipe
